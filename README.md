@@ -66,9 +66,7 @@
 
    !<img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/5.splashscreen.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/6.homepage.jpg" width="100" style="max-width: 100%;">
-   <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/7.popular.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/7.populardetail.jpg" width="100" style="max-width: 100%;">
-   <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/8.recommended.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/8.recommendeddetail.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/11.ordercart.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/10.historycart.jpg" width="100" style="max-width: 100%;">
