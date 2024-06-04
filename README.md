@@ -47,8 +47,7 @@
    <img src="https://github.com/Khanthamalee/scan-Bar-QR-code-Application/blob/main/scan%20qr%20and%20bar%20code%20.jpg" width="100" style="max-width: 100%;">
   
 #### 4. DjangoAPItoAWS : https://github.com/Khanthamalee/DjangoAPItoAWS
- * You can view the work at http://3.27.16.93/
- * คุณสามารถรับชมผลงานได้ที่ http://3.27.16.93/
+ * เคยลงผลงานที่ AWS แต่มีค่าใช้จ่ายเพิ่มเติมจากแพคเกจฟรี จึงปิดบัญชีไปแล้วค่ะ
 
 #### 5. Ecommercefromflutter(not finished yet) : https://github.com/Khanthamalee/Ecommercefromflutter
  * To developing Ecommercefromflutter in the Google Maps section.
