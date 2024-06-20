@@ -3,11 +3,17 @@
 😄 My name Khanthamalee Na-udom. I am 29 years old. 🤔 I'm looking for a job as a developer.I am ready to learn new things and develop my skills to make work goals successful under correctness and ethics. In the case of work from home, I can start work immediately but other than that, I can start work within 2 weeks. You can contact me at n.Khanthamalee@gmail.com. And you can check my history and work experience from https://github.com/Khanthamalee/Khanthamalee/blob/main/CV_n.Khanthamalee.jpg
 
 ### My Experience and My Project :
-#### 1. January 2024 – April 2024 : ADMIN WEB https://chachoengsao.imm.police.go.th/
+#### 1. การศึกษาความสัมพันธ์ระหว่างเดคลิเนชันของดวงอาทิตย์กับตำแหน่งเฉลี่ยของร่องความกดอากาศโดยใช้แผนที่อากาศผิวพื้นบริเวณทวีปเอเชีย (The relationship between declination of  the Sun and mean latitude of ITCZ by using asian surface weather map)
+* การศึกษาครั้งนี้เพื่อศึกษาความสัมพันธ์ระหว่างเดคลิเนชันของดวงอาทิตย์ กับตำแหน่งละติจูดของร่องความกดอากาศบริเวณเอเชีย โดยรวบรวมตำแหน่งร่องความกดอากาศตั้งแต่ปี พ.ศ. 2550 – 2559 และใช้การประมาณค่าโดยวิธีกำลังสองน้อยที่สุด ในการพิจารณาสมการพหุนามเพื่อการวิเคราะห์หาความสัมพันธ์ระหว่างเดคลิเนชันของดวงอาทิตย์กับตำแหน่งละติจูด ผลการศึกษาพบว่า ตำแหน่งละติจูดเฉลี่ยของร่องความกดอากาศ มีแนวโน้มแปรผัน กับเดคลิเนชันของดวงอาทิตย์ โดยได้สมการแสดงความสัมพันธ์เป็นพหุนามอันดับสาม คือ Position ITCZ (<15 and 15.0-23.5) = -0.00003δ3 - 0.0116δ2 + 0.39δ + 17.757 9.06 และ Position ITCZ (15.0-23.5)  = -0.0537δ3 + 3.1992δ2 - 62.255δ + 412.3 7.39 เมื่อเดคลิเนชันของดวงอาทิตย์มีค่าประมาณ 15.0 – 23.5 องศา สามารถใช้ได้ทั้งสองสมการ แต่ถ้าหากเดคลิเนชันของดวงอาทิตย์มีค่าน้อยกว่า 15.0 องศา จะสามารถใช้ได้เพียงสมการ Position ITCZ (<15 and 15.0-23.5) เท่านั้น
+   !<img src="https://github.com/Khanthamalee/The-relationship-between-declination-of-the-Sun-and-mean-latitude-of-ITCZ/blob/main/plt-ITCZ%20and%20Declination.png" width="500" style="max-width: 100%;">
+   !<img src="https://github.com/Khanthamalee/The-relationship-between-declination-of-the-Sun-and-mean-latitude-of-ITCZ/blob/main/polynomial-ITCZ%20and%20Declination.png" width="500" style="max-width: 100%;">
+   !<img src="https://github.com/Khanthamalee/The-relationship-between-declination-of-the-Sun-and-mean-latitude-of-ITCZ/blob/main/polynomial-ITCZup%20and%20Declination.png" width="500" style="max-width: 100%;">
+
+#### 2. January 2024 – April 2024 : ADMIN WEB https://chachoengsao.imm.police.go.th/
 
  * content and configuration website
 
-#### 2. Rub-Chai-Application : https://github.com/Khanthamalee/Rub-Chai-Application
+#### 3. Rub-Chai-Application : https://github.com/Khanthamalee/Rub-Chai-Application
  * You can try using the application for android at https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp.
  * คุณสามารถทดลองใช้งานแอพพลิเคชันรุ่นทดลองสำหรับแอนดรอยด์ได้ที่ https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp
    
@@ -31,7 +37,7 @@
    <img src="https://github.com/Khanthamalee/Rub-Chai-Application/blob/main/assets/%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2/18.%20forthpage-donuschart%20in%20year.jpg" width="100" style="max-width: 100%;">
    
 
-#### 3. UI Scan QR-Code for deliver
+#### 4. UI Scan QR-Code for deliver
  * I cannot reveal the code due to commercial information.
 
    !<img src="https://github.com/Khanthamalee/scan-Bar-QR-code-Application/blob/main/splashscreen.jpg" width="100" style="max-width: 100%;">
@@ -46,10 +52,10 @@
    <img src="https://github.com/Khanthamalee/scan-Bar-QR-code-Application/blob/main/orderfinishedpage.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/scan-Bar-QR-code-Application/blob/main/scan%20qr%20and%20bar%20code%20.jpg" width="100" style="max-width: 100%;">
   
-#### 4. DjangoAPItoAWS : https://github.com/Khanthamalee/DjangoAPItoAWS
+#### 5. DjangoAPItoAWS : https://github.com/Khanthamalee/DjangoAPItoAWS
  * เคย deploy api ที่ AWS แต่มีค่าใช้จ่ายเพิ่มเติมจากแพคเกจฟรี จึงปิดบัญชีไปแล้วค่ะ
 
-#### 5. Ecommercefromflutter(not finished yet) : https://github.com/Khanthamalee/Ecommercefromflutter
+#### 6. Ecommercefromflutter(not finished yet) : https://github.com/Khanthamalee/Ecommercefromflutter
  * To developing Ecommercefromflutter in the Google Maps section.
  * Modify the application to make it better.
  * You can view the work at
