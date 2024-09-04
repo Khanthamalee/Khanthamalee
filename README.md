@@ -13,8 +13,6 @@
  * content and configuration website
 
 #### 3. Rub-Chai-Application : https://github.com/Khanthamalee/Rub-Chai-Application
- * You can try using the application for android at https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp.
- * คุณสามารถทดลองใช้งานแอพพลิเคชันรุ่นทดลองสำหรับแอนดรอยด์ได้ที่ https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp
    
    !<img src="https://github.com/Khanthamalee/Rub-Chai-Application/raw/main/assets/%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2/1.%20splassscreen.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Rub-Chai-Application/blob/main/assets/%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2/2.%20firstpage-addaccount-1.jpg" width="100" style="max-width: 100%;">
