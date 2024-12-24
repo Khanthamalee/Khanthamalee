@@ -8,7 +8,7 @@
  * content and configuration website
 
 #### 2. Rub-Chai-Application : https://github.com/Khanthamalee/Rub-Chai-Application
-* You can try using the application at https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp please contact me email : n.khanthamalee@gmail.com for test app
+* You can try using the application at https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp please contact me at email : n.khanthamalee@gmail.com for test app
  * คุณสามารถทดลองใช้งานแอพพลิเคชันรุ่นทดลองได้ที่ https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp กรุณาติดต่อ ที่ email : n.khanthamalee@gmail.com สำหรับการทดสอบ Appliction ค่ะ
    
    !<img src="https://github.com/Khanthamalee/Rub-Chai-Application/raw/main/assets/%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2/1.%20splassscreen.jpg" width="100" style="max-width: 100%;">
