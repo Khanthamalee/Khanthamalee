@@ -71,11 +71,6 @@
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/10.historycart.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/9.saveaddress.jpg" width="100" style="max-width: 100%;">
 
-   #### 6. การศึกษาความสัมพันธ์ระหว่างเดคลิเนชันของดวงอาทิตย์กับตำแหน่งเฉลี่ยของร่องความกดอากาศโดยใช้แผนที่อากาศผิวพื้นบริเวณทวีปเอเชีย (The relationship between declination of  the Sun and mean latitude of ITCZ by using asian surface weather map)
-* การศึกษาครั้งนี้เพื่อศึกษาความสัมพันธ์ระหว่างเดคลิเนชันของดวงอาทิตย์ กับตำแหน่งละติจูดของร่องความกดอากาศบริเวณเอเชีย โดยรวบรวมตำแหน่งร่องความกดอากาศตั้งแต่ปี พ.ศ. 2550 – 2559 และใช้การประมาณค่าโดยวิธีกำลังสองน้อยที่สุด ในการพิจารณาสมการพหุนามเพื่อการวิเคราะห์หาความสัมพันธ์ระหว่างเดคลิเนชันของดวงอาทิตย์กับตำแหน่งละติจูด ผลการศึกษาพบว่า ตำแหน่งละติจูดเฉลี่ยของร่องความกดอากาศ มีแนวโน้มแปรผัน กับเดคลิเนชันของดวงอาทิตย์ โดยได้สมการแสดงความสัมพันธ์เป็นพหุนามอันดับสาม คือ Position ITCZ (<15 and 15.0-23.5) = -0.00003δ3 - 0.0116δ2 + 0.39δ + 17.757 9.06 และ Position ITCZ (15.0-23.5)  = -0.0537δ3 + 3.1992δ2 - 62.255δ + 412.3 7.39 เมื่อเดคลิเนชันของดวงอาทิตย์มีค่าประมาณ 15.0 – 23.5 องศา สามารถใช้ได้ทั้งสองสมการ แต่ถ้าหากเดคลิเนชันของดวงอาทิตย์มีค่าน้อยกว่า 15.0 องศา จะสามารถใช้ได้เพียงสมการ Position ITCZ (<15 and 15.0-23.5) เท่านั้น
-   !<img src="https://github.com/Khanthamalee/The-relationship-between-declination-of-the-Sun-and-mean-latitude-of-ITCZ/blob/main/plt-ITCZ%20and%20Declination.png" width="500" style="max-width: 100%;">
-   !<img src="https://github.com/Khanthamalee/The-relationship-between-declination-of-the-Sun-and-mean-latitude-of-ITCZ/blob/main/polynomial-ITCZ%20and%20Declination.png" width="500" style="max-width: 100%;">
-   !<img src="https://github.com/Khanthamalee/The-relationship-between-declination-of-the-Sun-and-mean-latitude-of-ITCZ/blob/main/polynomial-ITCZup%20and%20Declination.png" width="500" style="max-width: 100%;">
      
 
 <!--
