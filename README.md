@@ -3,12 +3,12 @@
 😄 My name Khanthamalee Na-udom. I am 30 years old. 🤔 I'm looking for a job as a flutter developer and golang developer.I am ready to learn new things and develop my skills to make work goals successful under correctness and ethics. In the case of work from home, I can start work immediately but other than that, I can start work within 1 weeks. You can contact me at n.Khanthamalee@gmail.com.
 ### My Experience and My Project :
 
-#### 1. January 2024 – April 2024 : ADMIN WEB [Links](https://chachoengsao.imm.police.go.th/)
+#### 1. January 2024 – April 2024 : ADMIN WEB [Web site](https://chachoengsao.imm.police.go.th/)
 
  * content and configuration website
 
-#### 2. Rub-Chai-Application : [Links](https://github.com/Khanthamalee/Rub-Chai-Application)
-* You can try using the application from google play [Links](https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp)
+#### 2. Rub-Chai-Application : [Github links](https://github.com/Khanthamalee/Rub-Chai-Application)
+* You can try using the application from google play [Google play links](https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp)
 * To connect API from Googlesheet.
 
    !<img src="https://github.com/Khanthamalee/Rub-Chai-Application/raw/main/assets/%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2/1.%20splassscreen.jpg" width="100" style="max-width: 100%;">
@@ -46,22 +46,22 @@
    <img src="https://github.com/Khanthamalee/scan-Bar-QR-code-Application/blob/main/orderfinishedpage.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/scan-Bar-QR-code-Application/blob/main/scan%20qr%20and%20bar%20code%20.jpg" width="100" style="max-width: 100%;">
   
-#### 4. DjangoAPItoAWS : https://github.com/Khanthamalee/DjangoAPItoAWS
+#### 4. DjangoAPItoAWS : [Github links](https://github.com/Khanthamalee/DjangoAPItoAWS)
  * To deploy api to AWS but there was a service charge so it was cancelled.
 
-#### 5. Ecommercefromflutter(not finished yet) : https://github.com/Khanthamalee/Ecommercefromflutter
+#### 5. Ecommercefromflutter(not finished yet) : [Github links](https://github.com/Khanthamalee/Ecommercefromflutter)
  * To developing Ecommercefromflutter in the Google Maps section.
  * Modify the application to make it better.
  * You can view the work at
 
-     login system :  [Links](https://github.com/Khanthamalee/Ecommercefromflutter/assets/110266347/67eea18f-4d42-492b-950d-1f3f4412a4eb)
+     login system :  [Github links](https://github.com/Khanthamalee/Ecommercefromflutter/assets/110266347/67eea18f-4d42-492b-950d-1f3f4412a4eb)
 
     !<img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/1.login.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/2.register.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/3.forgotpassword.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/4.changnewpassword.jpg" width="100" style="max-width: 100%;">
 
-     After login system : [Links](https://github.com/Khanthamalee/Ecommercefromflutter/assets/110266347/319e489c-51b5-4d69-bd3b-f0efb4049e1c)
+     After login system : [Github links](https://github.com/Khanthamalee/Ecommercefromflutter/assets/110266347/319e489c-51b5-4d69-bd3b-f0efb4049e1c)
 
    !<img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/5.splashscreen.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/6.homepage.jpg" width="100" style="max-width: 100%;">
