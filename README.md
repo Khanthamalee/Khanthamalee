@@ -7,8 +7,8 @@
 
  * content and configuration website
 
-#### 2. Rub-Chai-Application : [Github links](https://github.com/Khanthamalee/Rub-Chai-Application)
-* You can try using the application from google play [Google play links](https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp)
+#### 2. Rub-Chai-Application : [Github link](https://github.com/Khanthamalee/Rub-Chai-Application)
+* You can try using the application from google play [Google play link](https://play.google.com/store/apps/details?id=com.Naudom.incomeandexpansesapp)
 * To connect API from Googlesheet.
 
    !<img src="https://github.com/Khanthamalee/Rub-Chai-Application/raw/main/assets/%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2/1.%20splassscreen.jpg" width="100" style="max-width: 100%;">
@@ -46,22 +46,22 @@
    <img src="https://github.com/Khanthamalee/scan-Bar-QR-code-Application/blob/main/orderfinishedpage.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/scan-Bar-QR-code-Application/blob/main/scan%20qr%20and%20bar%20code%20.jpg" width="100" style="max-width: 100%;">
   
-#### 4. DjangoAPItoAWS : [Github links](https://github.com/Khanthamalee/DjangoAPItoAWS)
+#### 4. DjangoAPItoAWS : [Github link](https://github.com/Khanthamalee/DjangoAPItoAWS)
  * To deploy api to AWS but there was a service charge so it was cancelled.
 
-#### 5. Ecommercefromflutter(not finished yet) : [Github links](https://github.com/Khanthamalee/Ecommercefromflutter)
+#### 5. Ecommercefromflutter(not finished yet) : [Github link](https://github.com/Khanthamalee/Ecommercefromflutter)
  * To developing Ecommercefromflutter in the Google Maps section.
  * Modify the application to make it better.
  * You can view the work at
 
-     login system :  [Github links](https://github.com/Khanthamalee/Ecommercefromflutter/assets/110266347/67eea18f-4d42-492b-950d-1f3f4412a4eb)
+     login system :  [Github link](https://github.com/Khanthamalee/Ecommercefromflutter/assets/110266347/67eea18f-4d42-492b-950d-1f3f4412a4eb)
 
     !<img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/1.login.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/2.register.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/3.forgotpassword.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/4.changnewpassword.jpg" width="100" style="max-width: 100%;">
 
-     After login system : [Github links](https://github.com/Khanthamalee/Ecommercefromflutter/assets/110266347/319e489c-51b5-4d69-bd3b-f0efb4049e1c)
+     After login system : [Github link](https://github.com/Khanthamalee/Ecommercefromflutter/assets/110266347/319e489c-51b5-4d69-bd3b-f0efb4049e1c)
 
    !<img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/5.splashscreen.jpg" width="100" style="max-width: 100%;">
    <img src="https://github.com/Khanthamalee/Ecommercefromflutter/blob/main/fontend/ecommerce/assets/pictureUI/6.homepage.jpg" width="100" style="max-width: 100%;">
