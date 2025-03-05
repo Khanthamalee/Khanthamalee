@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-😄 My name Khanthamalee Na-udom. I am 30 years old. 🤔 I'm looking for a job as a flutter developer and golang developer.I am ready to learn new things and develop my skills to make work goals successful under correctness and ethics. In the case of work from home, I can start work immediately but other than that, I can start work within 1 weeks. You can contact me at n.Khanthamalee@gmail.com.
+😄 My name Khanthamalee Na-udom. I am 30 years old. 🤔 I'm looking for a job as a flutter developer and golang developer.I am ready to learn new things and develop my skills to make work goals successful under correctness and ethics. In the case of work from home, I can start work immediately but other than that, I can start work within 2 weeks. You can contact me at n.Khanthamalee@gmail.com.
 ### My Experience and My Project :
 
 #### 1. January 2024 – April 2024 : ADMIN WEB [Web site](https://chachoengsao.imm.police.go.th/)
