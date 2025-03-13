@@ -49,7 +49,7 @@
 #### 4. DjangoAPItoAWS : [Github link](https://github.com/Khanthamalee/DjangoAPItoAWS)
  * To deploy api to AWS but there was a service charge so it was cancelled.
 
-#### 5. Ecommercefromflutter(not finished yet) : [Github link](https://github.com/Khanthamalee/Ecommercefromflutter)
+#### 5. Florist-shop(not finished yet) : [Github link](https://github.com/Khanthamalee/Florist-shop)
  * To developing Ecommercefromflutter in the Google Maps section.
  * Modify the application to make it better.
  * You can view the work at
